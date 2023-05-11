@@ -2,7 +2,7 @@
 	<div class="container page_b flex fc">
 		<div class="white_b notice_row pl10 pr10 flex ac">
 			<img class="notice_icon mr2" src="../static/notice_icon.png">
-			<div class="flex-1 f12 text_color text-overflow mr2">温馨提示：每位用户只能添加10个账号</div>
+			<div class="flex-1 f12 text_color text-overflow mr2">温馨提示：每位用户只能添加10个账号11</div>
 			<img class="right_arrow" src="../static/right_arrow.png">
 		</div>
 		<div class="flex-1 scroll-y hide_scrollbar pl10 pr10">
