@@ -8,7 +8,7 @@
 		<div class="flex-1 scroll-y hide_scrollbar pl10 pr10">
 			<div class="ww_item width-100 flex ac jsb mt10 pl15 pr15" v-for="item in 30">
 				<div class="f14 text_color fw-500 flex">
-					<div>旺旺号：566577</div>
+					<div>旺旺号：5665778888</div>
 					<!-- <div>（接单中）</div> -->
 					<div class="has_color">（已接单）</div>
 				</div>
